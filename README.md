@@ -1,6 +1,4 @@
-# hello-world
-testing repository
-##this is my coding
-#introduce my self
+
+# Introduction
 **hello my name is rashawn yashadhana**
 *i live in jakarta*
